@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack  
 **Frontend**: React, Next.js, Tailwind CSS, Bootstrap  
-**Backend**: Node.js, Express, MongoDB (learning in progress) 
+**Backend**: Node.js, Express, MongoDB (learning in progress) <br>
 **Other**: Git/GitHub, Coursera
 
 
