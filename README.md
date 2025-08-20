@@ -25,14 +25,13 @@
 
 ## 🛠️ Tech Stack  
 **Frontend**: React, Next.js, Tailwind CSS, Bootstrap  
-**Backend**: Node.js, Express, MongoDB (learning in progress)
+**Backend**: Node.js, Express, MongoDB (learning in progress) 
 **Other**: Git/GitHub, Coursera
 
 
 ## 📫 Connect With Me  
 - 🌐 [Portfolio Website](https://www.linkedin.com/in/ruchi-pawar-636926309/)  
 - 💼 [LinkedIn](https://github.com/halloween-bit16)  
-- 🐙 [GitHub](https://github.com/yourusername)  
 
 
-✨ *"Building cool stuff while learning every day."*  
+✨ *"Building cool stuff while learning every day."* ✨
