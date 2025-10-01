@@ -22,6 +22,5 @@
 
 
 ## 📫 Connect With Me  
-- 🌐 [Portfolio Website](https://ruchis-portfolio.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruchi-pawar-636926309/)  
-
+- 🌐 <a href="https://ruchis-portfolio.netlify.app/" target="_blank">Portfolio Website</a>
+- 💼 <a href="https://www.linkedin.com/in/ruchi-pawar-636926309/" target="_blank">Linkedin</a>  
