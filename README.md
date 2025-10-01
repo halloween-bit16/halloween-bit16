@@ -7,21 +7,13 @@
 
 ## 🌟 About Me    
 - 🌱 Learning: **Next.js, Node.js + Express, MongoDB, TryHackMe**  
-- 🎮 Interests: Games, Reading, Badminton, Storywriting    
-
-
-## 📂 Projects  
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎶 **Tunez** | A sleek music catalog web app with favourites, modals, and MongoDB backend | Next.js, Tailwind, Express, MongoDB |
-| ☕ **LazyLatte** | Interactive coffee shop site with image-mapped locations and booking system | React, Tailwind |
-| 📜 **Short Story** | A small creative writing project I enjoyed making | Medium.com |
+- 🎮 Interests: **Games, Reading, Badminton, Storywriting**    
 
 
 ## 🏆 Achievements & Certificates  
 - ✅ Scholar's Scholarship (MAHE)  
 - ✅ Pre-Security (TryHackMe)
-
+  
 
 ## 🛠️ Tech Stack  
 **Frontend**: React, Next.js, Tailwind CSS, Bootstrap  
