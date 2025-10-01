@@ -16,14 +16,12 @@
   
 
 ## 🛠️ Tech Stack  
-**Frontend**: React, Next.js, Tailwind CSS, Bootstrap  
+**Frontend**: React, Next.js, Tailwind CSS
 **Backend**: Node.js, Express, MongoDB (learning in progress) <br>
-**Other**: Git/GitHub, Coursera
+**Other**: TryHackMe, Git/GitHub, Coursera
 
 
 ## 📫 Connect With Me  
-- 🌐 [Portfolio Website](https://www.linkedin.com/in/ruchi-pawar-636926309/)  
-- 💼 [LinkedIn](https://github.com/halloween-bit16)  
+- 🌐 [Portfolio Website](https://ruchis-portfolio.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruchi-pawar-636926309/)  
 
-
-✨ *"Building cool stuff while learning every day."* ✨
